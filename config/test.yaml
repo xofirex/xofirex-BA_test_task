@@ -1,0 +1,10 @@
+postgres:
+  database: database
+  user: user
+  password: password
+  host: host
+  port: 5432
+
+
+host: 127.0.0.1
+port: 8080
